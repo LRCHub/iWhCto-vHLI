@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "命綱",
+  "base_artist": "syudou",
+  "createdAt": "2026-01-09T14:25:56.207544Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命綱",
+      "artist": "Syudou",
+      "has_synced": true,
+      "path": "select/01_命綱_Syudou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命綱",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_命綱_syudou.txt"
+    }
+  ]
+}
